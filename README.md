@@ -7,7 +7,7 @@ TypeScript 从零实现 axios 文档教材
 首先 clone 本项目：
 
 ```bash
-git clone https://git.imooc.com/coding-330/ts-axios-doc.git
+git clone https://github.com/cocoliForever/docs.git
 ```
 
 进入 `ts-axios-doc` 目录后安装项目依赖：
@@ -22,4 +22,4 @@ npm install
 npm run dev
 ```
 
-浏览器打开 `http://localhost:8080/ts-axios/` 即可。
+浏览器打开 `http://localhost:8080/docs/` 即可。
